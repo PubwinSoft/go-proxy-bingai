@@ -427,7 +427,7 @@ _w['_sydThreads'] = {
   threads: [],
 };
 _w['_sydConvTranslation'] = {
-  actionBarPlaceholder: '有问题尽管问我...（Shift + Enter = 换行，"/" 触发提示词）',
+  actionBarPlaceholder: '有问题尽管问我...（Shift + Enter = 换行，"/" 触发提示词）,更多帮助请访问https://www.77388.cn/newbing',
   actionBarAriaLabel: '询问必应',
   actionBarComposeButton: '新主题',
   actionBarNewChatButtonDesktop: '开始新聊天',
